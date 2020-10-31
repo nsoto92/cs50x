@@ -6,3 +6,4 @@
 | Assignment | Difficulty |
 | ---------- | ---------- |
 | [Hello](https://cs50.harvard.edu/x/2020/psets/1/hello/) |  |
+| Mario | [Less](https://cs50.harvard.edu/x/2020/psets/1/mario/less/#:~:text=submit50%20cs50/problems/2020/x/mario/less) |
