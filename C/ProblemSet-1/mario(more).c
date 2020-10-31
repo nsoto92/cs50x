@@ -10,13 +10,20 @@ int main(void)
     //For Loop that runs <= i times
     for (int j = 1; j <= i; j++)
     {
-        //Nested For loop that runs i-j times
+        //Nested For loop that runs i-j times and prints blank spaces for right-aligned pyramids
         for (int d = 1; d <= i - j; d++)
         {
             printf(" ");
         }
-        //Nested For loop that will run as j increases
+        //Nested For loop that will run as j increases and prints pyramid blocks
         for (int n = 1; n <= j; n++)
+        {
+            printf("#");
+        }
+        //Spaces between pyramids
+        printf("  ");
+        //Nested For loop that prints left-aligned pyramids
+        for (int m = 1; m <= j; m++)
         {
             printf("#");
         }
