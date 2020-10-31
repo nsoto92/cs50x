@@ -5,4 +5,4 @@
 #### **Assignments**
 | Assignment | Difficulty |
 | ---------- | ---------- |
-| [Hello](https://cs50.harvard.edu/x/2020/psets/1/hello/) | ----- |
+| [Hello](https://cs50.harvard.edu/x/2020/psets/1/hello/) |  |
